@@ -45,3 +45,4 @@ HTML5: For structuring the content and defining the semantic elements of the web
 CSS3: For styling the web page, including layout, typography, colors, and effects.
 Outcome:
 Successfully developed a professional-looking web page that demonstrated a strong understanding of HTML and CSS. This project served as a foundational step before advancing to more complex CSS frameworks like Bootstrap and TailwindCSS, providing confidence in handling web page design from scratch.
+![screencapture-abuhmaid28-github-io-Omnifood-Html-Css-Project-2024-07-04-15_02_17](https://github.com/abuhmaid28/Omnifood-Html-Css-Project/assets/131374109/3a46f2eb-9d1b-40c2-8241-cba48916f56e)
