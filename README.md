@@ -1,5 +1,5 @@
 Project: Omnifood Web Page
-
+Description:
 A healthy meal delivered to your door, every single day.
 
 Objective:
@@ -13,7 +13,7 @@ Implemented a responsive layout to ensure the web page looks good on various dev
 Used media queries to adjust the layout and styling for different screen sizes.
 Clean and Semantic HTML:
 
-Structured the HTML using semantic elements like " <header>, <nav>, <main>, <section>, <article>, and <footer>  " to improve readability and accessibility.
+Structured the HTML using semantic elements like header, nav, main, section, article, and footer to improve readability and accessibility.
 Included appropriate meta tags for SEO optimization and mobile responsiveness.
 CSS Styling:
 
